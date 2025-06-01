@@ -2,11 +2,12 @@
 
 <div align="center">
 
-![Demo Screenshot](https://via.placeholder.com/800x500/667eea/ffffff?text=Interactive+Demo+Dashboard)
+![Demo Screenshot](https://github.com/user-attachments/assets/2d217a9f-48e6-4a1a-adbc-5931325a4228
+)
 
 **An interactive, comprehensive demonstration of the Universal API Retry Interceptor in action with React**
 
-[🚀 Live Demo](https://your-demo-url.com) • [📦 Main Package](https://github.com/asuraking1n/universal-api-retry-interceptor) • [📖 Documentation](#-features)
+[🚀 Live Demo](https://demo-universal-api-retry-interceptor.netlify.app/) • [📦 Main Package](https://github.com/asuraking1n/universal-api-retry-interceptor) • [📖 Documentation](https://github.com/Asuraking1n/universal-api-retry-interceptor)
 
 </div>
 
